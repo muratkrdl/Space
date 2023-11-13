@@ -12,16 +12,16 @@ The game ends when the player dies
 
 # Gameplay
 
-<img src="https://github.com/muratkrdl/Space/blob/main/Picture.png" width="450">
+<img src="https://github.com/muratkrdl/Space/blob/main/Picture.png" width="400">
 
 
-<img src="https://github.com/muratkrdl/Space/blob/main/MainMenu.png" width="450">
+<img src="https://github.com/muratkrdl/Space/blob/main/MainMenu.png" width="400">
 
 
-<img src="https://github.com/muratkrdl/Space/blob/main/Gameplay.gif" width="450">
+<img src="https://github.com/muratkrdl/Space/blob/main/Gameplay.gif" width="400">
 
 
-<img src="https://github.com/muratkrdl/Space/blob/main/GameOver.png" width="450">
+<img src="https://github.com/muratkrdl/Space/blob/main/GameOver.png" width="400">
 
 
 ## Authors
